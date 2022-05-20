@@ -41,8 +41,7 @@
     font-weight: 400;
 }
 
-.friends-screen__channel{
-    margin-top: 25px;
-    border-top: 1px solid rgba(0, 0, 0, 0.2);
+.user-component__column:last-child {
+    color: rgba(0, 0, 0, 0.5);
 
 }
